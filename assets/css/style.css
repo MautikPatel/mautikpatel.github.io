@@ -645,7 +645,7 @@ blockquote p{
   border-radius:40px;
   padding:8px 18px;
 }
-.project-result::before{content:'→'}
+/* .project-result::before{content:'→'} */
 
 /* ═══════════════════════════════════
    SKILLS
